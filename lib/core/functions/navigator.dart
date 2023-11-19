@@ -5,7 +5,7 @@ void pushNamedAndRemoveUntil(String route, BuildContext context,
   Navigator.pushNamedAndRemoveUntil(
     context,
     route,
-    (route) => true,
+    (route) => false, // This will remove all screens
     arguments: arguments,
   );
 }

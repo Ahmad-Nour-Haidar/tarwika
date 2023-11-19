@@ -1,11 +1,11 @@
 class AppLink {
   AppLink._();
 
-  static const _host = '10.0.2.2:8000';
+  // static const _host = '10.0.2.2:8000';
 
   // static const _host = 'localhost:8000';
   //
-  // static const _host = '192.168.43.198:8000';
+  static const _host = '192.168.43.198:8000';
   //
   // static const _host = '192.168.229.48:8000';
 
