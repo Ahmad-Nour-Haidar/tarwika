@@ -1,0 +1,15 @@
+enum StatusRequest {
+  none,
+  success,
+  error404,
+  loading,
+  loadingItem,
+  loadingItemWithCat,
+  noData,
+  noDataAfterSearch,
+  offline,
+  oops,
+  passwordNotCorrect,
+  emailNotCorrect,
+  server,
+}
