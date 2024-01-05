@@ -1,5 +1,4 @@
 import 'dart:math';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
@@ -7,7 +6,6 @@ import 'package:tarwika/controller/local_controller.dart';
 import 'package:tarwika/core/constant/app_strings.dart';
 import 'package:tarwika/core/functions/functions.dart';
 import 'package:tarwika/core/services/dependency_injection.dart';
-
 import '../../core/constant/app_color.dart';
 import '../../core/constant/app_size.dart';
 import '../../core/constant/app_svg.dart';
