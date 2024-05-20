@@ -25,99 +25,25 @@ time who wants to have their meal ready upon arrival.
 
 ## App Preview
 
-### Onboarding Pages
+### Choose the application language and login with your account.
 
-![Choose the application language and login with your account.](app-preview/1.png)
+![Onboarding Pages](app-preview/1.png)
 
-### Authentication Pages
+### Authentication & Profile Pages
 
 ![Authentication Pages](app-preview/2.png)
 
-### Meal Customization Pages
-
-![Meal Customization Pages](app-preview/3.png)
-
-### Menu Pages
+### Browse through various meals and see detailed descriptions and prices.
 
 ![Menu Pages](app-preview/4.png)
 
-### Order Summary Pages
+### Customize your meals by specifying details like the size of pizza slices.
+
+![Meal Customization Pages](app-preview/3.png)
+
+### Select the date and time for your reservation and the number of people.
 
 ![Order Summary Pages](app-preview/5.png)
-
-### Login Page
-
-![Login Page](screenshots/login_page.png)
-
-
-### Menu Page
-
-![Menu Page](screenshots/menu_page.png)
-Browse through various meals and see detailed descriptions and prices.
-
-### Customization Page
-
-![Customization Page](screenshots/customization_page.png)
-Customize your meals by specifying details like the size of pizza slices.
-
-### Reservation Page
-
-![Reservation Page](screenshots/reservation_page.png)
-Select the date and time for your reservation and the number of people.
-
-### Order Summary Page
-
-![Order Summary Page](screenshots/order_summary_page.png)
-Review your selected meals before finalizing your reservation.
-
-
-<div style="display: flex; flex-wrap: wrap; gap: 50px;">
-  <figure>
-    <img src="app-preview/1.png" alt="Onboarding Pages" height="405" width="540">
-    <figcaption>Onboarding Pages</figcaption>
-  </figure>
-  <figure>
-    <img src="app-preview/2.png" alt="Authentication Pages" height="405" width="540">
-    <figcaption>Authentication Pages</figcaption>
-  </figure>
-  <figure>
-    <img src="app-preview/3.png" alt="Meal Customization Pages" height="405" width="540">
-    <figcaption>Meal Customization Pages</figcaption>
-  </figure>
-  <figure>
-    <img src="app-preview/4.png" alt="Menu Pages" height="405" width="540">
-    <figcaption>Menu Pages</figcaption>
-  </figure>
-  <figure>
-    <img src="app-preview/5.png" alt="Order Summary Pages" height="405" width="540">
-    <figcaption>Order Summary Pages</figcaption>
-  </figure>
-</div>
-
-### Login Page
-
-![Login Page](screenshots/login_page.png)
-Choose the application language and login with your account.
-
-### Menu Page
-
-![Menu Page](screenshots/menu_page.png)
-Browse through various meals and see detailed descriptions and prices.
-
-### Customization Page
-
-![Customization Page](screenshots/customization_page.png)
-Customize your meals by specifying details like the size of pizza slices.
-
-### Reservation Page
-
-![Reservation Page](screenshots/reservation_page.png)
-Select the date and time for your reservation and the number of people.
-
-### Order Summary Page
-
-![Order Summary Page](screenshots/order_summary_page.png)
-Review your selected meals before finalizing your reservation.
 
 ## Installation
 
