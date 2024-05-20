@@ -26,11 +26,26 @@ time who wants to have their meal ready upon arrival.
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 50px;">
-<img src="app-preview/1.png" alt="Onboarding Pages" height="405" width="540">
-<img src="app-preview/2.png" alt="Authentication Pages" height="405" width="540">
-<img src="app-preview/3.png" alt="Meal Customization Pages" height="405" width="540">
-<img src="app-preview/4.png" alt="Menu Pages" height="405" width="540">
-<img src="app-preview/5.png" alt="Order Summary Pages" height="405" width="540">
+  <figure>
+    <img src="app-preview/1.png" alt="Onboarding Pages" height="405" width="540">
+    <figcaption>Onboarding Pages</figcaption>
+  </figure>
+  <figure>
+    <img src="app-preview/2.png" alt="Authentication Pages" height="405" width="540">
+    <figcaption>Authentication Pages</figcaption>
+  </figure>
+  <figure>
+    <img src="app-preview/3.png" alt="Meal Customization Pages" height="405" width="540">
+    <figcaption>Meal Customization Pages</figcaption>
+  </figure>
+  <figure>
+    <img src="app-preview/4.png" alt="Menu Pages" height="405" width="540">
+    <figcaption>Menu Pages</figcaption>
+  </figure>
+  <figure>
+    <img src="app-preview/5.png" alt="Order Summary Pages" height="405" width="540">
+    <figcaption>Order Summary Pages</figcaption>
+  </figure>
 </div>
 
 ### Login Page
