@@ -1,6 +1,15 @@
-# Tarwiqa Restaurant Application
+# Tarwika Restaurant Application
 
-Tarwiqa is a restaurant reservation application designed to streamline the process of reserving tables and ordering meals in advance. It's particularly useful for employees or anyone with limited time who wants to have their meal ready upon arrival.
+Tarwika is a restaurant reservation application designed to streamline the process of reserving tables and ordering meals in advance. It's particularly useful for employees or anyone with limited time who wants to have their meal ready upon arrival.
+
+## Table of Contents
+
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Features
 
@@ -12,6 +21,14 @@ Tarwiqa is a restaurant reservation application designed to streamline the proce
 - **Order Summary**: Review your order before finalizing the reservation.
 
 ## Screenshots
+
+<div style="display: flex; flex-wrap: wrap; gap: 50px;">
+<img src="app-preview/1.png" alt="Splash Screen" height="400" width="200">
+<img src="app-preview/2.png" alt="Splash Screen" height="400" width="200">
+<img src="app-preview/3.png" alt="Splash Screen" height="400" width="200">
+<img src="app-preview/4.png" alt="Splash Screen" height="400" width="200">
+<img src="app-preview/5.png" alt="Splash Screen" height="400" width="200">
+</div>
 
 ### Login Page
 ![Login Page](screenshots/login_page.png)
@@ -37,8 +54,8 @@ Review your selected meals before finalizing your reservation.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/tarwiqa-restaurant-app.git
-    cd tarwiqa-restaurant-app
+    git clone https://github.com/Ahmad-Nour-Haidar/tarwika.git
+    cd tarwika
     ```
 
 2. **Install dependencies**:
