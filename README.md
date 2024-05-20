@@ -7,7 +7,7 @@ time who wants to have their meal ready upon arrival.
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
+- [App Preview](#app-preview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -23,7 +23,43 @@ time who wants to have their meal ready upon arrival.
 - **Reservation System**: Reserve tables and specify the time and number of people.
 - **Order Summary**: Review your order before finalizing the reservation.
 
-## Screenshots
+## App Preview
+
+### Onboarding Pages
+![Onboarding Pages](app-preview/1.png)
+
+### Authentication Pages
+![Authentication Pages](app-preview/2.png)
+
+### Meal Customization Pages
+![Meal Customization Pages](app-preview/3.png)
+
+### Menu Pages
+![Menu Pages](app-preview/4.png)
+
+### Order Summary Pages
+![Order Summary Pages](app-preview/5.png)
+
+### Login Page
+![Login Page](screenshots/login_page.png)
+Choose the application language and login with your account.
+
+### Menu Page
+![Menu Page](screenshots/menu_page.png)
+Browse through various meals and see detailed descriptions and prices.
+
+### Customization Page
+![Customization Page](screenshots/customization_page.png)
+Customize your meals by specifying details like the size of pizza slices.
+
+### Reservation Page
+![Reservation Page](screenshots/reservation_page.png)
+Select the date and time for your reservation and the number of people.
+
+### Order Summary Page
+![Order Summary Page](screenshots/order_summary_page.png)
+Review your selected meals before finalizing your reservation.
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 50px;">
   <figure>
