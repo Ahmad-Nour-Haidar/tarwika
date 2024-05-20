@@ -23,11 +23,11 @@ Tarwika is a restaurant reservation application designed to streamline the proce
 ## Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 50px;">
-<img src="app-preview/1.png" alt="Splash Screen" height="540" width="405">
-<img src="app-preview/2.png" alt="Splash Screen" height="540" width="405">
-<img src="app-preview/3.png" alt="Splash Screen" height="540" width="405">
-<img src="app-preview/4.png" alt="Splash Screen" height="540" width="405">
-<img src="app-preview/5.png" alt="Splash Screen" height="540" width="405">
+<img src="app-preview/1.png" alt="Splash Screen" height="405" width="540">
+<img src="app-preview/2.png" alt="Splash Screen" height="405" width="540">
+<img src="app-preview/3.png" alt="Splash Screen" height="405" width="540">
+<img src="app-preview/4.png" alt="Splash Screen" height="405" width="540">
+<img src="app-preview/5.png" alt="Splash Screen" height="405" width="540">
 </div>
 
 ### Login Page
